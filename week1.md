@@ -36,7 +36,6 @@
       position: absolute;
       top: 500px;
       right: 100px;
-      width: 200px;
       opacity: 0.6;
       border-radius: 15px 50px 30px 5px;
       width: 200px; /* 图片宽度 */
